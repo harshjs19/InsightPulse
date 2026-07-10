@@ -89,24 +89,28 @@ OPPORTUNITY_MODERATE = 55
 OPPORTUNITY_LOW = 35
 
 # --- Recommendation Thresholds ---
-REC_STRONG_OPP_OPPORTUNITY = 75
-REC_STRONG_OPP_RISK_CEILING = 35
-REC_STRONG_OPP_CONFIDENCE = 60
+# Net score = opportunity_score - risk_score. This single axis captures
+# the essential question: "does opportunity outweigh risk?" Thresholds
+# are calibrated to the actual score distribution produced by FinBERT
+# sentiment data, where most companies cluster near neutral.
 
-REC_OPPORTUNITY_OPPORTUNITY = 60
-REC_OPPORTUNITY_RISK_CEILING = 50
-REC_OPPORTUNITY_CONFIDENCE = 40
+REC_STRONG_BUY_NET = 25
+REC_STRONG_BUY_CONFIDENCE = 60
 
-REC_WATCHLIST_OPPORTUNITY = 50
-REC_WATCHLIST_RISK_CEILING = 60
+REC_BUY_NET = 10
+REC_BUY_CONFIDENCE = 50
 
-REC_HIGH_RISK_RISK = 75
-REC_HIGH_RISK_CONFIDENCE = 50
+REC_ACCUMULATE_NET = 0
+REC_ACCUMULATE_CONFIDENCE = 40
 
-REC_CAUTION_RISK = 65
-REC_CAUTION_CONFIDENCE = 40
+REC_HOLD_NET = -10
 
-REC_INSUFFICIENT_DATA_CONFIDENCE = 40
+REC_REDUCE_CONFIDENCE = 30
+
+REC_SELL_NET = -25
+REC_SELL_CONFIDENCE = 60
+
+REC_INSUFFICIENT_DATA_CONFIDENCE = 30
 
 
 # =============================================================================
@@ -365,63 +369,87 @@ def build_company_intelligence(company_metrics: pd.DataFrame) -> pd.DataFrame:
     # -------------------------
     # Recommendation Engine
     # -------------------------
-    # Seven-tier system with confidence gates, evaluated top-down.
-    # Mirrors sell-side research desk terminology:
-    #   Strong Opportunity → Opportunity → Watchlist → Neutral
-    #   Caution → High Risk → Insufficient Data
+    # Net-score decision matrix using sell-side terminology.
+    # net_score = opportunity - risk captures the essential question:
+    # "does opportunity outweigh risk?" Evaluated top-down.
+
+    net_score = (
+        intelligence["opportunity_score"] -
+        intelligence["risk_score"]
+    )
 
     conditions = [
-        # Strong Opportunity: high conviction positive signal
-        (
-            (intelligence["opportunity_score"] >= REC_STRONG_OPP_OPPORTUNITY) &
-            (intelligence["risk_score"] < REC_STRONG_OPP_RISK_CEILING) &
-            (intelligence["confidence_score"] >= REC_STRONG_OPP_CONFIDENCE)
-        ),
-
-        # Opportunity: positive signal with acceptable risk
-        (
-            (intelligence["opportunity_score"] >= REC_OPPORTUNITY_OPPORTUNITY) &
-            (intelligence["risk_score"] < REC_OPPORTUNITY_RISK_CEILING) &
-            (intelligence["confidence_score"] >= REC_OPPORTUNITY_CONFIDENCE)
-        ),
-
-        # Watchlist: developing positive situation
-        (
-            (intelligence["opportunity_score"] >= REC_WATCHLIST_OPPORTUNITY) &
-            (intelligence["risk_score"] < REC_WATCHLIST_RISK_CEILING)
-        ),
-
-        # High Risk: strong negative signal with conviction
-        (
-            (intelligence["risk_score"] >= REC_HIGH_RISK_RISK) &
-            (intelligence["confidence_score"] >= REC_HIGH_RISK_CONFIDENCE)
-        ),
-
-        # Caution: elevated risk with sufficient evidence
-        (
-            (intelligence["risk_score"] >= REC_CAUTION_RISK) &
-            (intelligence["confidence_score"] >= REC_CAUTION_CONFIDENCE)
-        ),
-
-        # Insufficient Data: not enough information to recommend
+        # Insufficient Data: checked first — cannot recommend without evidence
         (
             intelligence["confidence_score"] < REC_INSUFFICIENT_DATA_CONFIDENCE
+        ),
+
+        # Strong Buy: high-conviction opportunity dominates risk
+        (
+            (net_score >= REC_STRONG_BUY_NET) &
+            (intelligence["confidence_score"] >= REC_STRONG_BUY_CONFIDENCE)
+        ),
+
+        # Buy: clear opportunity edge with reasonable evidence
+        (
+            (net_score >= REC_BUY_NET) &
+            (intelligence["confidence_score"] >= REC_BUY_CONFIDENCE)
+        ),
+
+        # Accumulate: slight positive tilt, worth building a position
+        (
+            (net_score >= REC_ACCUMULATE_NET) &
+            (intelligence["confidence_score"] >= REC_ACCUMULATE_CONFIDENCE)
+        ),
+
+        # Sell: high-conviction risk dominates opportunity
+        (
+            (net_score < REC_SELL_NET) &
+            (intelligence["confidence_score"] >= REC_SELL_CONFIDENCE)
+        ),
+
+        # Reduce: risk clearly dominates with sufficient evidence
+        (
+            (net_score < REC_HOLD_NET) &
+            (intelligence["confidence_score"] >= REC_REDUCE_CONFIDENCE)
         ),
     ]
 
     recommendations = [
-        "Strong Opportunity",
-        "Opportunity",
-        "Watchlist",
-        "High Risk",
-        "Caution",
         "Insufficient Data",
+        "Strong Buy",
+        "Buy",
+        "Accumulate",
+        "Sell",
+        "Reduce",
     ]
 
     intelligence["recommendation"] = np.select(
         conditions,
         recommendations,
-        default="Neutral",
+        default="Hold",
     )
 
-    return intelligence
+    derived_columns = [
+        "attention_score",
+        "attention_level",
+        "sentiment_score",
+        "sentiment_level",
+        "momentum_index",
+        "momentum_level",
+        "confidence_score",
+        "confidence_level",
+        "risk_score",
+        "risk_level",
+        "opportunity_score",
+        "opportunity_level",
+        "recommendation",
+    ]
+    ordered_columns = list(company_metrics.columns) + derived_columns
+    remaining_columns = [
+        column
+        for column in intelligence.columns
+        if column not in ordered_columns
+    ]
+
+    return intelligence[ordered_columns + remaining_columns]

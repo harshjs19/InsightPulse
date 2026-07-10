@@ -46,7 +46,7 @@ for table in TABLES:
         index=False
     )
 
-    print(f"✓ {table}.csv")
+    print(f"OK {table}.csv")
 
 conn.close()
 

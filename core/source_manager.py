@@ -1,4 +1,3 @@
-from pathlib import Path
 import sqlite3
 
 from config.settings import MARKET_DB

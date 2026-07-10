@@ -1,8 +1,5 @@
 import sqlite3
 from config.settings import ANALYTICS_DB
-from analytics import market_insights
-from analytics import company_intelligence
-from pandas.core.computation import pytables
 from core.logger import logger
 
 from core.snapshot_manager import create_snapshot
@@ -13,10 +10,10 @@ from etl.load import load_all
 from analytics.company_metrics import build_company_metrics
 from analytics.company_intelligence import build_company_intelligence
 from analytics.explanations import build_explanations
+from analytics.build_insights import build_insights
 from etl.save_company_intelligence import (
     save_company_intelligence
 )
-from analytics.build_insights import build_insights
 
 from analytics.market_insights import (
     generate_market_insights
@@ -98,29 +95,34 @@ def main():
     )
 
     print("\n12. Building company intelligence...")
-    company_intelligence = build_company_intelligence(
-    company_metrics
-)
-
-    market_insights = generate_market_insights(
-        company_intelligence
+    intelligence = build_company_intelligence(
+        company_metrics
     )
 
-    save_market_insights(
-        market_insights
-    )
+    print("\n13. Building insights...")
+    intelligence = build_insights(intelligence)
 
-    print("\n13. Market Insights...\n")
+    print("\n14. Building explanations...")
+    intelligence = build_explanations(intelligence)
+
+    print("\n15. Saving company intelligence...")
+    save_company_intelligence(intelligence)
+
+    print("\n16. Generating market insights...")
+    insights = generate_market_insights(intelligence)
+    save_market_insights(insights)
+
+    print("\n17. Market Insights...\n")
 
     print("Executive Brief")
     print("-" * 60)
 
     print(
-        market_insights["executive_brief"].iloc[0]
+        insights["executive_brief"].iloc[0]
     )
 
     print(
-        f"Generated intelligence for {len(company_intelligence)} companies."
+        f"\nGenerated intelligence for {len(intelligence)} companies."
     )
 
 
