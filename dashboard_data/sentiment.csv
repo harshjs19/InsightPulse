@@ -1,0 +1,327 @@
+id,ticker,title,sentiment_label,sentiment_score,sentiment_value,analyzed_at
+935,UNKNOWN,WATCH: Sparks fly over Oklahoma neighborhood after fireworks stand catches fire,neutral,0.9110315442085266,0.0,2026-06-25 12:53:19
+934,UNKNOWN,WATCH: Palm Beach's airport to be renamed President Donald J. Trump International Airport,neutral,0.8841046094894409,0.0,2026-06-25 12:53:19
+920,ARM,Priyanka Deshpande announces pregnancy with adorable post; fans and celebrities shower love,neutral,0.9105790853500366,0.0,2026-06-25 12:53:18
+906,NVDA,‘A Lot of Leeway’: SpaceX’s High-Grade Debt Brings Out Skeptics,positive,0.6227620840072632,0.6227620840072632,2026-06-25 12:53:18
+907,TSLA,SpaceX's quickfire investment-grade rating brings out skeptics,negative,0.7239154577255249,-0.7239154577255249,2026-06-25 12:53:18
+908,UNKNOWN,Trump signs two executive orders to accelerate arrival of powerful quantum computers,positive,0.9206885695457458,0.9206885695457458,2026-06-25 12:53:18
+909,MSFT,SpaceX shares drop 16% after rocket company discloses it may take on billions in debt,negative,0.9673827290534973,-0.9673827290534973,2026-06-25 12:53:18
+910,NVDA,Amazon SageMaker Studio notebooks now support G7e instance types,neutral,0.8567966222763062,0.0,2026-06-25 12:53:18
+911,NVDA,"Semtech and onsemi Shares Are Soaring, What You Need To Know",neutral,0.9063345789909363,0.0,2026-06-25 12:53:18
+912,NVDA,uni-db-onnx-cuda 2.2.5,neutral,0.9324654340744019,0.0,2026-06-25 12:53:18
+913,UNKNOWN,The world’s most influential cars,neutral,0.6895981431007385,0.0,2026-06-25 12:53:18
+914,TSLA,Elon Musk’s Terafab project aims to put 1 terawatt of AI compute into orbit using Starship,neutral,0.7783758044242859,0.0,2026-06-25 12:53:18
+916,TSLA,"US watchdog opens probe after Tesla crashes into Texas home, killing woman",negative,0.8519920706748962,-0.8519920706748962,2026-06-25 12:53:18
+917,UNKNOWN,"EV demand powers Europe car market in May, Chinese rivals expand share",positive,0.7821444272994995,0.7821444272994995,2026-06-25 12:53:18
+918,UNKNOWN,Assam HSLC Compartment exam result 2026 to be out today at sebaonline.org: Check steps to download scorecards,neutral,0.9443191289901733,0.0,2026-06-25 12:53:18
+919,UNKNOWN,UPTET admit card 2026 on this date at upessc.up.gov.in; exams scheduled from July 2 to 4,neutral,0.9563730359077454,0.0,2026-06-25 12:53:18
+915,TSLA,"US watchdog opens probe after Tesla crashes into Texas home, killing woman - Al Jazeera",negative,0.7210205793380737,-0.7210205793380737,2026-06-25 12:53:18
+921,META,"Priyank Sharma dismisses rumours of joining Lock Upp 2; says, 'My journey ended 8 years ago'",neutral,0.8926010727882385,0.0,2026-06-25 12:53:18
+928,AAPL,"Tata Electronics hit by ransomware attack claiming to expose Apple, Tesla trade secrets",negative,0.8570439219474792,-0.8570439219474792,2026-06-25 12:53:18
+922,TSLA,Tesla pushes back on Autopilot narrative after fatal Texas crash,neutral,0.37173986434936523,0.0,2026-06-25 12:53:18
+932,TSLA,"Top auto regulator opens special probe after a Tesla slams into a Texas home, killing a 76-year-old",negative,0.9266347885131836,-0.9266347885131836,2026-06-25 12:53:18
+931,TSLA,Tesla crash that killed a woman under US federal investigation - BBC,neutral,0.5070149302482605,0.0,2026-06-25 12:53:18
+930,TSLA,Welltower CFO’s $167 Million Pay Package Sets New Record,positive,0.7538400292396545,0.7538400292396545,2026-06-25 12:53:18
+929,TSLA,Fatal crash involving Tesla allegedly using driver assist now under federal investigation,negative,0.6662063598632812,-0.6662063598632812,2026-06-25 12:53:18
+933,TSLA,Top auto regulator opens special investigation into deadly Tesla crash,neutral,0.7993268370628357,0.0,2026-06-25 12:53:18
+927,GOOGL,"Why Google, Tesla and AMD are turning to Samsung for AI chips",neutral,0.9098701477050781,0.0,2026-06-25 12:53:18
+925,TSLA,US opens probe of fatal Tesla crash into Texas home,neutral,0.5981349349021912,0.0,2026-06-25 12:53:18
+924,UNKNOWN,The Flash #34 Preview: Gorilla Warfare Meets Speed Force Visions,neutral,0.9259985685348511,0.0,2026-06-25 12:53:18
+923,MSFT,US opens probe into fatal Tesla crash into Texas home,neutral,0.7267554402351379,0.0,2026-06-25 12:53:18
+926,TSLA,Tesla pushes back on Autopilot narrative after fatal Texas crash - TechCrunch,neutral,0.5711836218833923,0.0,2026-06-25 12:53:18
+884,OPENAI,OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws,positive,0.5603952407836914,0.5603952407836914,2026-06-25 12:53:17
+889,UNKNOWN,"2026 Zeekr X launched in Malaysia – Premium RWD and Flagship AWD, quicker charging; RM159k-RM176k",neutral,0.5553645491600037,0.0,2026-06-25 12:53:17
+888,AAPL,A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak,negative,0.832926869392395,-0.832926869392395,2026-06-25 12:53:17
+887,AAPL,iOS 27 beta 2 is out now: here’s what’s new,neutral,0.939889132976532,0.0,2026-06-25 12:53:17
+886,DIS,Disney & A24’s First Ever Team-up Begins With a Father Accused of Murder,neutral,0.8126240372657776,0.0,2026-06-25 12:53:17
+885,AAPL,"Coin-cell powered Nordic nRF54L15 Tag prototyping platform supports Bluetooth Channel Sounding, Matter, Edge AI",neutral,0.9072427749633789,0.0,2026-06-25 12:53:17
+882,ARM,Gear Crave June 2026,neutral,0.8945776224136353,0.0,2026-06-25 12:53:17
+883,UNKNOWN,Bayern Munich News: FC Bayern scoping Tottenham Hotspur’s Lucas Bergvall?; Harry Kane contract news; and MORE!,neutral,0.9028185606002808,0.0,2026-06-25 12:53:17
+881,UNKNOWN,Signify Enhances Philips Hue Matter Support Through Collaboration with Silicon Labs,positive,0.8686376810073853,0.8686376810073853,2026-06-25 12:53:17
+880,UNKNOWN,D4VD's brother returns to social media as singer's murder trial approaches,neutral,0.8293939232826233,0.0,2026-06-25 12:53:17
+879,AAPL,Samsung Display reportedly kicks off OLED panel production for foldable iPhone,negative,0.6237132549285889,-0.6237132549285889,2026-06-25 12:53:17
+892,NVDA,nemotron-graphic-elements-v1 1.0.1.dev20260623044117,neutral,0.9386390447616577,0.0,2026-06-25 12:53:17
+891,TSM,"After workers, beggars replaced by robots: Viral video from China makes netizens question if begging will face 'layoffs'",negative,0.963930070400238,-0.963930070400238,2026-06-25 12:53:17
+890,NIO,Yotta Data Services Receives Frost & Sullivan's 2026 Indian Company of the Year Recognition for Leadership in Sovereign AI Infrastructure,positive,0.9400222301483154,0.9400222301483154,2026-06-25 12:53:17
+893,NVDA,nemotron-page-elements-v3 3.0.2.dev20260623044117,neutral,0.9414260387420654,0.0,2026-06-25 12:53:17
+899,NVDA,AI start-up Reflection signs computing power deal with SpaceX,neutral,0.7205087542533875,0.0,2026-06-25 12:53:17
+905,NVDA,Super Micro Computer surges 15% on Nvidia Vera Rubin AI infrastructure announcement,positive,0.9203668236732483,0.9203668236732483,2026-06-25 12:53:17
+903,AAPL,Gets 15.66% Boost from Nvidia-Powered Blueprint,positive,0.9466302990913391,0.9466302990913391,2026-06-25 12:53:17
+902,NVDA,Nvidia’s Cosmos 3 Super ranks in top tier of Text-to-Image Arena despite dominating other benchmarks,positive,0.7956588268280029,0.7956588268280029,2026-06-25 12:53:17
+901,UNKNOWN,Beyond Jio IPO: 5 triggers Mukesh Ambani has lined up to revive Reliance shares for 44 lakh investors,positive,0.7444610595703125,0.7444610595703125,2026-06-25 12:53:17
+900,NVDA,Why AbbVie Stock Jumped Today,neutral,0.7436879873275757,0.0,2026-06-25 12:53:17
+904,NVDA,Nvidia seeks to make humanoid AI robots safer around humans,neutral,0.8286957740783691,0.0,2026-06-25 12:53:17
+898,NVDA,"Sophia Space Announces $7 Million SAFE Financing, Bringing Total Funding to $22 Million",positive,0.9190243482589722,0.9190243482589722,2026-06-25 12:53:17
+895,AMZN,Score a 144Hz budget gaming laptop this Prime Day with ASUS’ RTX 4050 TUF Gaming A16 down at $799,negative,0.9505634903907776,-0.9505634903907776,2026-06-25 12:53:17
+897,NVDA,"Acer Nitro 85 Gaming Desktop: Ryzen 7 8700F, RTX 5070 (12GB), 16GB DDR5, 1TB SSD $1449 (3 replies)",neutral,0.915995717048645,0.0,2026-06-25 12:53:17
+894,NIO,Everything they say about U.S. aid to Israel is wrong,neutral,0.8215456604957581,0.0,2026-06-25 12:53:17
+896,UNKNOWN,2 Wide-Moat Stocks That Are Drop-Dead Bargains Right Now,neutral,0.8195788264274597,0.0,2026-06-25 12:53:17
+867,NIO,EU bets on digital euro to cut US tech addiction,negative,0.836679220199585,-0.836679220199585,2026-06-25 12:53:16
+856,MSFT,How to Use Copilot to Compare Open Tabs in Microsoft Edge,neutral,0.9306779503822327,0.0,2026-06-25 12:53:16
+857,TSM,3 AI stocks outweigh all of India: Why this concentration is sounding EM alarm bells,neutral,0.7861337661743164,0.0,2026-06-25 12:53:16
+858,UNKNOWN,Australian government cloud mandate sparks migration warnings,neutral,0.6006837487220764,0.0,2026-06-25 12:53:16
+860,UNKNOWN,New details emerge as footy WAG sues her partner Steven May's AFL club for its alleged actions after police welfare check at her home,negative,0.9266856908798218,-0.9266856908798218,2026-06-25 12:53:16
+861,MSFT,zespan-autogen 1.2.0,neutral,0.921153724193573,0.0,2026-06-25 12:53:16
+862,MSFT,zespan-autogen added to PyPI,neutral,0.9407227039337158,0.0,2026-06-25 12:53:16
+863,UNKNOWN,"Stocks fluctuate after Wall St sell-off, crude holds losses on peace talks",negative,0.9133151769638062,-0.9133151769638062,2026-06-25 12:53:16
+864,MSFT,Xbox has more than a dozen TV shows and films in development,neutral,0.9378295540809631,0.0,2026-06-25 12:53:16
+865,UNKNOWN,"'A surprising number of them said, “Yes.”': Study finds many customers would leave a business which stays loyal to US big tech services",neutral,0.5331701636314392,0.0,2026-06-25 12:53:16
+866,ORCL,"Oracle workforce shrinks by about 21,000 employees amid AI adoption",negative,0.9746345281600952,-0.9746345281600952,2026-06-25 12:53:16
+859,F,"1,700 Free Online Courses from Top Universities @ Openculture",neutral,0.931246817111969,0.0,2026-06-25 12:53:16
+868,GOOGL,"Google restores Telegram on Playstore, app starts functioning for some users",neutral,0.7888367772102356,0.0,2026-06-25 12:53:16
+869,AAPL,What Your iPhone Apps Are Secretly Tracking Behind Your Back,neutral,0.8949372172355652,0.0,2026-06-25 12:53:16
+871,AAPL,Does Elon Musk represent a new form of capitalism?: podcast,neutral,0.9119925498962402,0.0,2026-06-25 12:53:16
+872,UNKNOWN,He Paid Hundreds to Fix His Phone’s “Broken” Camera — Turns Out It Was Just Dirty,neutral,0.6805086135864258,0.0,2026-06-25 12:53:16
+873,AMZN,"Amazon Prime Day LIVE 2026: We reveal all the best deals as they come in, with half-price Amazon devices and savings on Apple, Ninja, Shark, Dyson and more",neutral,0.8634815812110901,0.0,2026-06-25 12:53:16
+874,AAPL,Apple rolls out iOS 27 beta 2,neutral,0.8838738203048706,0.0,2026-06-25 12:53:16
+875,UNKNOWN,Marlow: Popular Historian Cheapens Lynching by Comparing It to UFC at White House,neutral,0.7991065382957458,0.0,2026-06-25 12:53:16
+876,UNKNOWN,Is Hunter Biden Losing His Aura?,negative,0.7427089810371399,-0.7427089810371399,2026-06-25 12:53:16
+877,UNKNOWN,Former Indiana basketball player involved in NBA's blockbuster Giannis Antetokounmpo trade,neutral,0.8842303156852722,0.0,2026-06-25 12:53:16
+878,UNKNOWN,Giannis Antetokounmpo is arguably the biggest team legend ever traded away,neutral,0.7979637384414673,0.0,2026-06-25 12:53:16
+870,UNKNOWN,A Prayer to Welcome Summer - Your Daily Prayer - June 23,neutral,0.8730538487434387,0.0,2026-06-25 12:53:16
+837,AAPL,This credit card-sized tracker fits in your wallet and costs $20 during Deal Days,neutral,0.9459258913993835,0.0,2026-06-25 12:53:15
+841,MSFT,Quanta NVIDIA Quadro T1000 with Max-Q Design Graphics Driver 32.0.15.9166 for Windows 11 version 25H2,neutral,0.9044506549835205,0.0,2026-06-25 12:53:15
+840,NVDA,Kazakhstan signs pacts with NVIDIA & Firebird to position country as AI regional hub,positive,0.9391328692436218,0.9391328692436218,2026-06-25 12:53:15
+839,AAPL,Widow’s Bay Season 2 Confirmed: Apple TV Renews Its Biggest Horror-Comedy Hit Ahead of Finale - Filmibeat,positive,0.66862553358078,0.66862553358078,2026-06-25 12:53:15
+838,UNKNOWN,"The wait is over! Samsung’s Galaxy XR headset has finally landed in the UK, and I couldn’t be more excited",neutral,0.7346871495246887,0.0,2026-06-25 12:53:15
+832,UNKNOWN,Companies question cost of AI as tokenmaxxing spending adds up,negative,0.8507941365242004,-0.8507941365242004,2026-06-25 12:53:15
+836,UNKNOWN,"Ahadadream shares new single, ‘Make Space’: Listen",neutral,0.8643952012062073,0.0,2026-06-25 12:53:15
+835,UNKNOWN,Schlage’s New Smart Lock Opens Your Door Before You Even Touch It,neutral,0.9331620335578918,0.0,2026-06-25 12:53:15
+834,AMZN,SpaceX Surpasses Amazon in Market Value: Inside Elon Musk's Rocket Empire Rise to $3 Trillion,positive,0.7731746435165405,0.7731746435165405,2026-06-25 12:53:15
+833,MSFT,One $20 payment gets you the full Office suite and zero subscription stress during this Deal Days sale,neutral,0.8102544546127319,0.0,2026-06-25 12:53:15
+843,MSFT,Gigabyte is back with a bang with this 32-inch QD-OLED monitor,neutral,0.5929372906684875,0.0,2026-06-25 12:53:15
+842,UNKNOWN,How to Build AI-Powered Technical Support Automation Platforms,neutral,0.9125425219535828,0.0,2026-06-25 12:53:15
+855,MSFT,aaz-dev 4.5.5,neutral,0.917305052280426,0.0,2026-06-25 12:53:15
+844,ANTHROPIC,Anthropic Ban Forces Investor Rethink of Political Risk,negative,0.5259939432144165,-0.5259939432144165,2026-06-25 12:53:15
+850,AAPL,The BenQ MA270S breaks Apple’s monitor monopoly,negative,0.4723404049873352,-0.4723404049873352,2026-06-25 12:53:15
+854,OPENAI,OpenAI pitches ChatGPT ads to Cannes marketers ahead of IPO,neutral,0.9069715738296509,0.0,2026-06-25 12:53:15
+853,MSFT,"US Stock Market: AI spending fears hammer US tech giants, Alphabet leads selloff",negative,0.957693874835968,-0.957693874835968,2026-06-25 12:53:15
+852,UNKNOWN,wyoming-ovos-stt added to PyPI,neutral,0.9212273955345154,0.0,2026-06-25 12:53:15
+851,MSFT,Chevron Signs 20-Year Power Deal With Microsoft for Massive Texas AI Hub,positive,0.8523371815681458,0.8523371815681458,2026-06-25 12:53:15
+845,UNKNOWN,Rickrolling the World Cup,neutral,0.8171610236167908,0.0,2026-06-25 12:53:15
+849,MSFT,Microsoft's Satya Nadella warns against AI profits being absorbed by just a few companies,negative,0.515710175037384,-0.515710175037384,2026-06-25 12:53:15
+848,MSFT,Oh the places you’ll go with spatial data​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‌‌‍​﻿‌‍‌‍​﻿‌‍‌‍‌‍​﻿‍​​﻿‍​‌‍‌‍​‍﻿‌​﻿‍​‌‍​﻿​﻿‌​‌‍‌​​‍﻿‌​﻿‌​‌‍​‍‌‍​‌​﻿​‌​‍﻿‌​﻿‍​​﻿‍‌‌‍​‍​﻿​‌​‍﻿‌​﻿​‌​﻿​​​﻿​‍‌‍​‍​﻿‌​​﻿‌‍‌‍​﻿​﻿​‌​﻿‌​‌‍‌​​﻿‍‌​﻿‌‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‌‌‍​﻿‌‍‌‍​﻿‌‍‌‍‌‍​﻿‍​​﻿‍​‌‍‌‍​‍﻿‌​﻿‍​‌‍​﻿​﻿‌​‌‍‌​​‍﻿‌​﻿‌​‌‍​‍‌‍​‌​﻿​‌​‍﻿‌​﻿‍​​﻿‍‌‌‍​‍​﻿​‌​‍﻿‌​﻿​‌​﻿​​​﻿​‍‌‍​‍​﻿‌​​﻿‌‍‌‍​﻿​﻿​‌​﻿‌​‌‍‌​​﻿‍‌​﻿‌‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌,neutral,0.9041514992713928,0.0,2026-06-25 12:53:15
+847,MSFT,"Show HN: WSL Dashboard – an open-source,low-memory, high-performance GUI manager",neutral,0.9083582758903503,0.0,2026-06-25 12:53:15
+846,GOOGL,Google’s Andi Gutmans on the shift to agent-scale data management,neutral,0.8666572570800781,0.0,2026-06-25 12:53:15
+820,NIO,Opinion: AVs Can Do More Than Just Serve People Who Can Afford A Cab,neutral,0.8565566539764404,0.0,2026-06-25 12:53:14
+810,UNKNOWN,WBJEE JECA 2026 candidates must submit OBC certificate by June 19 for reservation benefits; check details,neutral,0.9524037837982178,0.0,2026-06-25 12:53:14
+811,UNKNOWN,"Sargun Mehta wants people to stop making ‘negative comments, trolling online’",neutral,0.6767457723617554,0.0,2026-06-25 12:53:14
+812,TSLA,SpaceX Mania: How Elon Musk's rocket giant became Wall Street's biggest story,neutral,0.9124521613121033,0.0,2026-06-25 12:53:14
+813,UNKNOWN,"'We backdated posts': After Telegram scrutiny over NEET, UPSC coaching institute explains how '82 questions matched' in Prelims",neutral,0.7756710052490234,0.0,2026-06-25 12:53:14
+814,UNKNOWN,[NSW] 5kW Solis Inverter + 15kWh Solar Battery $3300 Installed & More @ Greengaroo,neutral,0.8700705766677856,0.0,2026-06-25 12:53:14
+815,TSLA,Fastest EV at Malaysia’s biggest EV Track Day: Exotic Mods Tesla Model 3 Performance – 2:27.790,neutral,0.8385153412818909,0.0,2026-06-25 12:53:14
+816,UNKNOWN,"Sodium-ion batteries now have a 15-minute charging time with no fire risk, are more reliable in cold temperatures",neutral,0.8143381476402283,0.0,2026-06-25 12:53:14
+817,TSLA,Bernie Sanders Slams 'Insanely Rigged Economy'; Ro Khanna Says Problem Isn't Elon Musk's Wealth But Rather One Of 'Values',neutral,0.6683618426322937,0.0,2026-06-25 12:53:14
+818,UNKNOWN,"Five uncrewed Starship rockets are projected to launch toward Mars during the brief window in late 2026 when the two planets align for the closest possible journey — and depending on whether they arrive intact, the first crewed missions could follow within five to seven years, in what would be the first time human beings have traveled to another planet in the roughly 200,000-year history of our species",neutral,0.87535560131073,0.0,2026-06-25 12:53:14
+819,UNKNOWN,EVs can get Malaysia’s biggest motor insurance discount with Allianz EV EcoMiles low mileage rebate,positive,0.6833371520042419,0.6833371520042419,2026-06-25 12:53:14
+821,GOOGL,"Samsung sees rising chip production requests from BYD, Google, AMD: sources",positive,0.8395492434501648,0.8395492434501648,2026-06-25 12:53:14
+823,TSLA,Xiaomi Auto veteran says Tesla's EV edge starts on factory floor,neutral,0.7080951929092407,0.0,2026-06-25 12:53:14
+824,UNKNOWN,The Insight Asia launches to deliver the pulse of Asia's tech frontier,neutral,0.6232231855392456,0.0,2026-06-25 12:53:14
+825,TSLA,"Tesla robotaxis have had no accidents in their last report, due to the fact that virtually none of them are operating [Followup]",neutral,0.8092935085296631,0.0,2026-06-25 12:53:14
+826,UNKNOWN,"Home solar in rural America: a storm just took out your power, now what?",neutral,0.5302783846855164,0.0,2026-06-25 12:53:14
+827,TSLA,The Latest Way BYD Is Topping Tesla,positive,0.7254625558853149,0.7254625558853149,2026-06-25 12:53:14
+828,TSLA,"Quote of the day by inventor Nikola Tesla: 'I wish I could be beside you now mother, to bring you the glass of water. All these years...' The genius scientist reflects on the true personal cost of being ambitious",neutral,0.8927621841430664,0.0,2026-06-25 12:53:14
+829,UNKNOWN,Investors flock to SpaceX options trading on record first day,neutral,0.7302689552307129,0.0,2026-06-25 12:53:14
+830,UNKNOWN,"SpaceX shares surge nearly 50% in first days of trading, sending ripples through crypto markets",positive,0.712905764579773,0.712905764579773,2026-06-25 12:53:14
+831,MSFT,GitHub Copilot Desktop App Targets Parallel Agentic Workflows,neutral,0.918548047542572,0.0,2026-06-25 12:53:14
+822,UNKNOWN,China's Massive Electric Container Ship Recharges Via Swappable Battery Containers,neutral,0.8291162252426147,0.0,2026-06-25 12:53:14
+798,AMZN,Amazon backs AI start-up developing models to simulate physical world,neutral,0.6563644409179688,0.0,2026-06-25 12:53:13
+792,UNKNOWN,parammadrz added to PyPI,neutral,0.9284970760345459,0.0,2026-06-25 12:53:13
+796,NVDA,nvidia-deepstream-videodecode-cu13 9.0.0,neutral,0.9400542378425598,0.0,2026-06-25 12:53:13
+795,NVDA,nvidia-deepstream-videodecode-cu13 added to PyPI,neutral,0.9173599481582642,0.0,2026-06-25 12:53:13
+794,NVDA,This Nissan Skyline was turned into a gaming PC and racing rig for Forza Horizon 6,neutral,0.9096135497093201,0.0,2026-06-25 12:53:13
+793,OPENAI,L’Oréal Partners With OpenAI,neutral,0.7743728756904602,0.0,2026-06-25 12:53:13
+787,NVDA,Quanta NVIDIA RTX A4000 Laptop GPU Graphics Driver 32.0.15.9166 for Windows 10 version 21H2 64-bit,neutral,0.931352972984314,0.0,2026-06-25 12:53:13
+791,NVDA,Prediction: This Could Be Nvidia's Stock Price By the End of 2027,neutral,0.9322651028633118,0.0,2026-06-25 12:53:13
+790,NVDA,Apollo and Blackstone Just Closed a $35 Billion Private Credit Deal to Finance Anthropic's Compute Expansion. Here's What It Means for Micron and Nvidia,neutral,0.8876511454582214,0.0,2026-06-25 12:53:13
+789,UNKNOWN,Shares mixed and oil trades below $80 on optimism over interim U.S.-Iran war deal,negative,0.9538630247116089,-0.9538630247116089,2026-06-25 12:53:13
+788,COHERE,"(PR) Coherent Breaks Ground on Expanded Texas Facility, Scaling AI's Optical Backbone",positive,0.9301836490631104,0.9301836490631104,2026-06-25 12:53:13
+797,NVDA,NVIDIA RTX Remix 1.5 Update Cuts File Size and Brings Smooth Normals,negative,0.7597032189369202,-0.7597032189369202,2026-06-25 12:53:13
+809,GOOGL,"Chip supply chains shift: TSMC's capacity crunch reportedly pushes Google, Tesla, BYD toward Samsung",negative,0.966627299785614,-0.966627299785614,2026-06-25 12:53:13
+799,NVDA,NVIDIA's RTX Remix Skills lets modders without coding skills use AI agents to help remaster classic PC games,neutral,0.9034538865089417,0.0,2026-06-25 12:53:13
+801,UNKNOWN,Shares are mixed and oil trades below $80 on optimism over interim US-Iran war deal,negative,0.9544547200202942,-0.9544547200202942,2026-06-25 12:53:13
+802,UNKNOWN,"Nifty IT rises 4.3% in three sessions to cross 29,000: Infosys, Tech Mahindra, Wipro & TCS lead gains",positive,0.9169276356697083,0.9169276356697083,2026-06-25 12:53:13
+803,GOOGL,"AMD, Google, and Nvidia could get some of their chips made by Samsung",neutral,0.8659478425979614,0.0,2026-06-25 12:53:13
+804,NVDA,"Lenovo (Certified Refurbished) IdeaPad Pro 5: 16"" 2.8K OLED 120Hz, Ryzen AI 5 340, RTX 5050, 16GB RAM, 512GB SSD $714.35 (3 replies)",neutral,0.8851207494735718,0.0,2026-06-25 12:53:13
+805,UNKNOWN,"Applied Intuition Expands Its Self-Driving System Into Japan, One of the World's Most Demanding Automotive Markets",positive,0.7979996204376221,0.7979996204376221,2026-06-25 12:53:13
+806,MSFT,"War Department: Elon Musk’s Grok AI Helped Fire 2,000 Missiles at Iran",neutral,0.830601155757904,0.0,2026-06-25 12:53:13
+807,NVDA,"Chinese EV Makers Shift to Proprietary Chips, Reducing Reliance on Nvidia",positive,0.782053530216217,0.782053530216217,2026-06-25 12:53:13
+808,AMZN,Nvidia’s $20 billion bond sale: The AI debt frenzy reaches a tipping point,neutral,0.45954108238220215,0.0,2026-06-25 12:53:13
+800,NVDA,AORUS GeForce RTX 5090 Infinity now available in the Philippines,neutral,0.895177960395813,0.0,2026-06-25 12:53:13
+781,ARM,‘Widow’s Bay’ Finale Suggests Laughing at Life’s Horrors Instead of Living in Dread — Spoilers,neutral,0.7677995562553406,0.0,2026-06-25 12:53:12
+776,META,ICYMI - Everything Is Phone,neutral,0.9220966100692749,0.0,2026-06-25 12:53:12
+777,UNKNOWN,What Next - Israel Alone,neutral,0.932060718536377,0.0,2026-06-25 12:53:12
+778,UNKNOWN,Decoder Ring - The Tootsie Shot (Encore),neutral,0.8988962173461914,0.0,2026-06-25 12:53:12
+779,AAPL,Widow’s Bay Ending Explained: For Whom the Bell Tolls,neutral,0.9129432439804077,0.0,2026-06-25 12:53:12
+780,UNKNOWN,Bayern Munich star Harry Kane pegged to have big World Cup,neutral,0.7760736346244812,0.0,2026-06-25 12:53:12
+786,C,The Epic of Gilgamesh,neutral,0.8953465819358826,0.0,2026-06-25 12:53:12
+782,UNKNOWN,"He fled Iran for the American dream, became a millionaire, and could have retired—instead, he built the health tech that saved his father from cancer",neutral,0.9232388138771057,0.0,2026-06-25 12:53:12
+783,UNKNOWN,Widow's Bay Season 1 Review,neutral,0.90255206823349,0.0,2026-06-25 12:53:12
+784,GOOGL,Google to bring built-in parental controls to all android 17 phones amid regulatory pressure,neutral,0.6891053318977356,0.0,2026-06-25 12:53:12
+785,AAPL,First Rush update,neutral,0.9185982346534729,0.0,2026-06-25 12:53:12
+774,UNKNOWN,Lagaan To Laapataa Ladies: Aamir's 10 Best Productions,neutral,0.5625194311141968,0.0,2026-06-25 12:53:12
+775,UNKNOWN,Culture Gabfest - One Last Strut Edition,neutral,0.915387749671936,0.0,2026-06-25 12:53:12
+773,UNKNOWN,(Video) Reported Liverpool transfer target sends out a statement with instant World Cup impact,neutral,0.933830201625824,0.0,2026-06-25 12:53:12
+772,AAPL,disposable-email-detector added to PyPI,neutral,0.9457626342773438,0.0,2026-06-25 12:53:12
+771,AAPL,disposable-email-detector 0.1.0,neutral,0.9184363484382629,0.0,2026-06-25 12:53:12
+770,AAPL,Apple Watch Ultra 4 Leaks: The Rugged Smartwatch Is Getting a Full Makeover,positive,0.6609331369400024,0.6609331369400024,2026-06-25 12:53:12
+769,AAPL,Telegram stops working for existing users in India but operational on VPN,neutral,0.85898756980896,0.0,2026-06-25 12:53:12
+768,AAPL,Telegram stops working for existing users in India but remains accessible via VPN,neutral,0.8641572594642639,0.0,2026-06-25 12:53:12
+767,AAPL,Apple Store、Belkin製Qi2 25W対応3-in-1ワイヤレス充電器「Belkin UltraCharge Pro 3-in-1 Magnetic Charging Dock」のブルーを販売開始（Apple限定）,neutral,0.8851897716522217,0.0,2026-06-25 12:53:12
+766,AAPL,"Apple Store、BelkinのUSB-Cケーブル内蔵20,000mAhバッテリー「Belkin UltraCharge Pro 20K Power Bank with Integrated Cable」を販売開始",neutral,0.636376678943634,0.0,2026-06-25 12:53:12
+765,UNKNOWN,Slow Burn - Decoder Ring | Tina Turner and the Dance That Conquered Australia,neutral,0.9055169224739075,0.0,2026-06-25 12:53:12
+764,AAPL,Nvidia Vera CPU strains LPDDR supply as AI servers tap phone memory,negative,0.9621170163154602,-0.9621170163154602,2026-06-25 12:53:12
+763,MSFT,GitHubで立て続けに数十件の大規模障害が発生したことを受けMicrosoftはライバルのAWSに協力を求めることに、AI主導の成長でインフラにとてつもない負荷がかかっているため,neutral,0.8039090037345886,0.0,2026-06-25 12:53:12
+742,UNKNOWN,Singapore’s electronics exports surge 94.8% on record AI demand,positive,0.92423415184021,0.92423415184021,2026-06-25 12:53:11
+747,MSFT,azure-mgmt-programenrollment 1.0.0b1,neutral,0.9271603226661682,0.0,2026-06-25 12:53:11
+746,MSFT,azure-mgmt-programenrollment added to PyPI,neutral,0.9323582649230957,0.0,2026-06-25 12:53:11
+745,UNKNOWN,HCLTech bets big on sovereign AI with strategic investment in Sarvam AI,positive,0.8335456848144531,0.8335456848144531,2026-06-25 12:53:11
+744,GOOGL,yta-audio-narration-microsoft 0.1.1,neutral,0.948074221611023,0.0,2026-06-25 12:53:11
+743,UNKNOWN,The US government can shut off access to AI at will. What does this mean for Australia?,neutral,0.6339032649993896,0.0,2026-06-25 12:53:11
+739,TSLA,Why BYD's New Flagship Sedan Should Have Porsche Sweating,neutral,0.9206134080886841,0.0,2026-06-25 12:53:11
+741,UNKNOWN,Ireland’s Big Tech presidency dilemma: Shaping the rules for companies it hosts,neutral,0.917026698589325,0.0,2026-06-25 12:53:11
+740,NVDA,Nvidia CEO Jensen Huang Just Announced Fantastic News to Microsoft Stock Investors,neutral,0.9044361114501953,0.0,2026-06-25 12:53:11
+738,NVDA,"China AI chip hopeful Enflame nears IPO with fast revenue growth, heavy losses, and Tencent risk",positive,0.8985247015953064,0.8985247015953064,2026-06-25 12:53:11
+737,NVDA,US AI startup Tensordyne claims 3nm Napier chip outperforms NVIDIA Blackwell by 13x in tokens per second,positive,0.9283102750778198,0.9283102750778198,2026-06-25 12:53:11
+749,UNKNOWN,2026 Top Trends in Academic Libraries: A Review of the Trends and Issues | Planning and Review Committee | College & Research Libraries News,neutral,0.9260075688362122,0.0,2026-06-25 12:53:11
+748,MSFT,Peter Thiel's private society attendance list leaked via hard-coded HTML,neutral,0.7456451654434204,0.0,2026-06-25 12:53:11
+750,MSFT,Microsoft launches Snapdragon X2 powered Surface Pro and Surface Laptop,neutral,0.7813220620155334,0.0,2026-06-25 12:53:11
+760,AMZN,"Activision Blizzard, Inc. Notice of June 30, 2026 Application Deadline for Class Action Lawsuit - Contact Lewis Kahn, Esq. at Kahn Swick & Foti, LLC, Before Application Deadline",neutral,0.8987882137298584,0.0,2026-06-25 12:53:11
+752,MSFT,Microsoft AntiSSRF open-source library helps block server-side request forgery,neutral,0.920577347278595,0.0,2026-06-25 12:53:11
+753,MSFT,PoC in the clouds: Google Cloud’s Model Garden at Platform 37,neutral,0.9179783463478088,0.0,2026-06-25 12:53:11
+754,UNKNOWN,A nightmare on Park St: 'THIRTY layoffs' at Woman's Day publisher Are Media... Staff reveal editors in tears on magland's darkest day: INSIDE MAIL,negative,0.8869079947471619,-0.8869079947471619,2026-06-25 12:53:11
+755,UNKNOWN,Building Internal AI Knowledge Hubs for Development Teams,neutral,0.8355951309204102,0.0,2026-06-25 12:53:11
+756,META,Mark Zuckerberg proposes AI hackathon at Meta amid employee pushback,neutral,0.7631585001945496,0.0,2026-06-25 12:53:11
+757,ANTHROPIC,Risky Business #842 -- Anthropic needs an adult in the C suite,neutral,0.9287395477294922,0.0,2026-06-25 12:53:11
+758,MSFT,$2.75 trillion mcap SpaceX rockets past Amazon with 66% stock surge in 3 days,positive,0.9195298552513123,0.9195298552513123,2026-06-25 12:53:11
+759,MSFT,agentforge-guard-presidio 0.3.1,neutral,0.9338971376419067,0.0,2026-06-25 12:53:11
+762,MSFT,"Xbox: A Mess, Moving Back To Exclusivity Deals, & The Layoffs Microsoft Promised Wouldn’t Happen",negative,0.8904337286949158,-0.8904337286949158,2026-06-25 12:53:11
+751,MSFT,"Microsoft launches new Snapdragon X2-powered Surface laptops, teases RTX Spark model",neutral,0.6629158854484558,0.0,2026-06-25 12:53:11
+761,SONY,How Often Does Sony Launch New PlayStation Consoles?,neutral,0.9223570823669434,0.0,2026-06-25 12:53:11
+720,AMD,"Cathie Wood Dumps Millions Worth Of Tesla, Palantir, Roku, AMD And More Even As TSLA Stock Pops On SpaceX Merger Buzz",negative,0.5660317540168762,-0.5660317540168762,2026-06-25 12:53:10
+723,GOOGL,"After resurrecting an iconic PC brand, Commodore is getting into flip phones",neutral,0.8086639642715454,0.0,2026-06-25 12:53:10
+722,GM,Physics - Learn and Teach,neutral,0.9135843515396118,0.0,2026-06-25 12:53:10
+721,UNKNOWN,"Sarvam is deeply interested in solving for agentic AI, enterprise business scaling rapidly: Founders Pratyush Kumar, Vivek Raghavan",neutral,0.5384401679039001,0.0,2026-06-25 12:53:10
+725,UNKNOWN,"ET Alpha Wealth Summit | FIIs haven't abandoned India, they've just reshuffled: Samir Arora",neutral,0.8747910857200623,0.0,2026-06-25 12:53:10
+719,TSLA,Tesla Cybercab Specs Are Public — But Questions Remain,neutral,0.9265558123588562,0.0,2026-06-25 12:53:10
+718,UBER,Why Robotaxis Will Struggle To Compete,neutral,0.9069495797157288,0.0,2026-06-25 12:53:10
+717,TSLA,The Tech Lords are the Sharpest Knives in the Drawer,negative,0.5765795707702637,-0.5765795707702637,2026-06-25 12:53:10
+716,QCOM,Qualcomm in talks to buy Tenstorrent: Report,neutral,0.9270543456077576,0.0,2026-06-25 12:53:10
+715,AAPL,"New OTT releases this week (June 15 - June 21): What's new on Netflix, ZEE5, Prime Video, JioHotstar, Apple TV+ and more",neutral,0.9374610781669617,0.0,2026-06-25 12:53:10
+724,AAPL,What are digital twins? Marketers weigh the opportunities and risks,neutral,0.9442881941795349,0.0,2026-06-25 12:53:10
+728,MSFT,Microsoft is gearing up to let you spread the cost of Xbox purchases — partnering with Klarna and PayPal - Windows Central,neutral,0.6821736693382263,0.0,2026-06-25 12:53:10
+726,UNKNOWN,Bose’s $299 Speaker Is the Sonos Rival That Won’t Lock You In,neutral,0.9212126135826111,0.0,2026-06-25 12:53:10
+729,MSFT,"Microsoft Sued by Shareholders Over Expenses, Cloud Business, AI",negative,0.9402338266372681,-0.9402338266372681,2026-06-25 12:53:10
+730,OPENAI,"OpenAI spent $34B on R&D, sales, and marketing ahead of IPO: FT",neutral,0.9427253603935242,0.0,2026-06-25 12:53:10
+731,QCOM,Qualcomm CEO says AI agents will replace apps — as chip giant works on 40 new AI-powered devices,neutral,0.7480113506317139,0.0,2026-06-25 12:53:10
+732,UNKNOWN,Miami Tech Investor Revives $3 Billion Real Estate Development,neutral,0.723139762878418,0.0,2026-06-25 12:53:10
+733,AAPL,The Hidden iOS 27 Features Everyone is Talking About,neutral,0.9395076036453247,0.0,2026-06-25 12:53:10
+734,UNKNOWN,"EXCLUSIVE: Sotheby’s to Auction 1,000 ‘Personal’ Karl Lagerfeld Sketches",neutral,0.9397295117378235,0.0,2026-06-25 12:53:10
+735,UNKNOWN,A Prayer for Refreshment in God’s Presence - Your Daily Prayer - June 16,neutral,0.8494023680686951,0.0,2026-06-25 12:53:10
+736,AAPL,Apple's Siri AI push drives 12GB DRAM demand for Samsung and SK Hynix,positive,0.5359998941421509,0.5359998941421509,2026-06-25 12:53:10
+727,NVDA,Perplexity's CEO shares 2 founder lessons he learned from Jensen Huang and Elon Musk,neutral,0.814269483089447,0.0,2026-06-25 12:53:10
+698,TSLA,"SpaceX Surpassed Broadcom, Meta Platforms, and Tesla in Market Cap on Its IPO Day. Can It Take on Amazon's Market Cap Next?",neutral,0.8138105869293213,0.0,2026-06-25 12:53:09
+702,AAPL,"SpaceX Traded More Than Apple, Microsoft, Tesla, Meta And Google Stocks Combined",neutral,0.5823975801467896,0.0,2026-06-25 12:53:09
+701,UNKNOWN,Democrats Demand Reparations From African American,negative,0.688433051109314,-0.688433051109314,2026-06-25 12:53:09
+700,TSLA,"Tesla Cybercab full specs revealed: 3,113 lbs, 219 HP, 48 kWh",neutral,0.6081514358520508,0.0,2026-06-25 12:53:09
+699,TSLA,"After US senator says Tesla benefited from government support, Elon Musk replies ‘many of these incentive",neutral,0.7656779289245605,0.0,2026-06-25 12:53:09
+704,OPENAI,"OpenAI Losses Increased Nearly 8X in 2025, with Spending Hitting $34B",positive,0.9060160517692566,0.9060160517692566,2026-06-25 12:53:09
+697,UNKNOWN,SpaceX Soars Another 20%—Rocketing Musk’s Net Worth To $1.3 Trillion,positive,0.946338415145874,0.946338415145874,2026-06-25 12:53:09
+695,TSLA,Rivian CEO says company will release tech similar to Tesla FSD later this year,neutral,0.8853185176849365,0.0,2026-06-25 12:53:09
+694,AAPL,Chase Sapphire Preferred just got even better for Apple users: Free Apple TV + 3x points on streaming and travel,positive,0.711884081363678,0.711884081363678,2026-06-25 12:53:09
+693,TSLA,"Tesla Robotaxi reports zero at-fault accidents since February, according to NHTSA data",negative,0.7598347067832947,-0.7598347067832947,2026-06-25 12:53:09
+703,MSFT,Show HN: Pokémon Showdown Live Battle Assistant,neutral,0.9235604405403137,0.0,2026-06-25 12:53:09
+696,UNKNOWN,Toyota reveals prices for its first electric pickup,neutral,0.9017322659492493,0.0,2026-06-25 12:53:09
+705,ANTHROPIC,Security leaders say lift export controls for Anthropic's Mythos-class models,positive,0.9087218642234802,0.9087218642234802,2026-06-25 12:53:09
+711,UNKNOWN,Coinbase explores trading real estate like stocks amid legal hurdles,neutral,0.9150370955467224,0.0,2026-06-25 12:53:09
+706,ANTHROPIC,Paying To Wait; Video Games Want Their Share Of Sports Ad Dollars,neutral,0.9004004597663879,0.0,2026-06-25 12:53:09
+713,UNKNOWN,Bayern Munich News: Ayyoub Bouaddi on FC Bayern’s radar?; USMNT’s Christian Pulisic to AS Roma?; and MORE!,neutral,0.9199384450912476,0.0,2026-06-25 12:53:09
+712,UNKNOWN,4-Pack: Would Face Scrub and/or Beard Wash 4 for $12,neutral,0.9420803785324097,0.0,2026-06-25 12:53:09
+714,AAPL,Rockit Global wins China court case over unlicensed apple propagation,negative,0.7391008734703064,-0.7391008734703064,2026-06-25 12:53:09
+710,NIO,A Stephen A. Smith Reunion With Pat McAfee May Have No Better Time Than Now,neutral,0.8912307620048523,0.0,2026-06-25 12:53:09
+709,UNKNOWN,How AngelHack uses hackathons to ease AI adoption,neutral,0.9190353155136108,0.0,2026-06-25 12:53:09
+708,MSFT,Multiple Xbox Studios Reportedly In Active Negotiations With Microsoft To Avoid Closure,negative,0.722460925579071,-0.722460925579071,2026-06-25 12:53:09
+707,INTC,The real AI revolution,neutral,0.9154122471809387,0.0,2026-06-25 12:53:09
+671,BP,【日本上陸】株式会社スホ、韓国SconAI社の音声リアルタイム連続同時通訳システム「SconChat」の国内独占提供を開始,neutral,0.8377463221549988,0.0,2026-06-25 12:53:08
+681,UNKNOWN,NASA’s SpaceX CRS-34 Dragon Returns Packed with Space Station Science - NASA (.gov),neutral,0.9182636141777039,0.0,2026-06-25 12:53:08
+672,GOOGL,Ineffable Intelligence strikes Google Cloud deal for Vera Rubin GPU power,negative,0.5312788486480713,-0.5312788486480713,2026-06-25 12:53:08
+673,NVDA,PyRXMesh 0.2.1rc0,neutral,0.8798027634620667,0.0,2026-06-25 12:53:08
+674,NVDA,"Why AI investor Aschenbrenner is shorting Nvidia, buying HIVE",neutral,0.9300293326377869,0.0,2026-06-25 12:53:08
+675,NVDA,Why Micron Stock Rocketed to a Record High Today,positive,0.7868689298629761,0.7868689298629761,2026-06-25 12:53:08
+676,NVDA,nemo-retriever 2026.6.16.dev123,neutral,0.9446573257446289,0.0,2026-06-25 12:53:08
+677,NVDA,nemo-retriever 2026.6.16.dev573,neutral,0.9452452063560486,0.0,2026-06-25 12:53:08
+678,UNKNOWN,Alienware finally gave the Area-51 the OLED screen it should have had from the start,neutral,0.7234607338905334,0.0,2026-06-25 12:53:08
+679,UNKNOWN,A universal gating framework for multi-expert fusion in heterogeneous multimodal time series forecasting,neutral,0.8510915637016296,0.0,2026-06-25 12:53:08
+680,TSLA,Elon Musk Now Has About $1 Trillion More Than the Next Richest Person in the World,neutral,0.9090130925178528,0.0,2026-06-25 12:53:08
+692,AMZN,SpaceX 6th Biggest Most Valuable and Tesla 10th,neutral,0.7752306461334229,0.0,2026-06-25 12:53:08
+682,TSLA,The single largest political donation in modern US history wasn’t a campaign check but a self-built spending machine — America PAC absorbed $239 million aimed at one candidate,neutral,0.9283379316329956,0.0,2026-06-25 12:53:08
+684,ARM,"Xiaomi built a robotic arm that plugs in your EV at home, delivering on a promise Tesla made in 2014 and never kept",neutral,0.7875339984893799,0.0,2026-06-25 12:53:08
+685,TSLA,Elon Musk 4.04X Richer than Second Place. Gates Never Did It.,neutral,0.9198170304298401,0.0,2026-06-25 12:53:08
+686,UNKNOWN,"SpaceX stock jumps for second day, now up over 40% since debut",positive,0.9376822113990784,0.9376822113990784,2026-06-25 12:53:08
+687,TSLA,"Rivian CEO says supervised point-to-point self-driving will arrive this year, and he’s comparing it directly to Tesla’s FSD",neutral,0.6158251762390137,0.0,2026-06-25 12:53:08
+688,INTC,CNBC's The China Connection newsletter: Waiting for AI to lift the whole market,neutral,0.5331170558929443,0.0,2026-06-25 12:53:08
+689,ARM,Xiaomi unveiled an EV feature that Tesla promised back in 2014… but it could make charging a lot easier,neutral,0.7451542019844055,0.0,2026-06-25 12:53:08
+690,TSLA,Elon Musk’s Trillion-Dollar Week Turned Out to Be Something Much Darker,neutral,0.8419700264930725,0.0,2026-06-25 12:53:08
+691,TSLA,"Stock Market Today: Dow Pops On Trump-Iran Deal; Elon Musk's SpaceX Rockets, Tesla Does This",neutral,0.8704472184181213,0.0,2026-06-25 12:53:08
+683,TSLA,Tesla Traders Have A New Obsession: SpaceX And The 'All Things Elon' Trade,neutral,0.921363890171051,0.0,2026-06-25 12:53:08
+654,AAPL,iOS 27 fixes three of the most annoying Messages bugs,negative,0.7016116380691528,-0.7016116380691528,2026-06-25 12:53:07
+658,UNKNOWN,"Qwen-VLA: The AI Model That Sees, Thinks, and Acts",neutral,0.9370734095573425,0.0,2026-06-25 12:53:07
+657,AAPL,"Apple is known for its openness and transparency, especially regarding its financials. So, it is not surprising that it is now handing over detailed financial disclosures to the Competition Commission of India, which could result in a $38B fine [Interesting]",negative,0.7488431334495544,-0.7488431334495544,2026-06-25 12:53:07
+656,AAPL,2nd Betas of MacOS Tahoe 26.6 & iOS 26.6 Available for Testing,neutral,0.9405295848846436,0.0,2026-06-25 12:53:07
+655,UNKNOWN,Leon Goretzka will focus on European clubs rather than MLS for now,neutral,0.933165967464447,0.0,2026-06-25 12:53:07
+649,UNKNOWN,What Does 5G UC Mean In Your Phone's Status Bar?,neutral,0.91026371717453,0.0,2026-06-25 12:53:07
+653,UNKNOWN,Taylor Swift turns heads for solo outing in NYC without fiance Travis Kelce as couple's wedding date vastly approaches,neutral,0.7675195336341858,0.0,2026-06-25 12:53:07
+652,AAPL,Sign in with Apple and Hide My Email are getting a new shared email domain,neutral,0.8899294137954712,0.0,2026-06-25 12:53:07
+651,UNKNOWN,A Wireless Clip-On Mic With AI Noise Cancellation for Under $50 Sounds Ridiculous. Here’s Why It Works.,neutral,0.8803264498710632,0.0,2026-06-25 12:53:07
+660,GOOGL,"Corgi files for MANGOS ETF targeting AI leaders Meta, Google, Nvidia",neutral,0.9419226050376892,0.0,2026-06-25 12:53:07
+659,UNKNOWN,"HCL Tech shares in focus after buying stake in Sarvam AI for Rs 1,427 crore",neutral,0.7911167740821838,0.0,2026-06-25 12:53:07
+650,UNKNOWN,Browns' QB target Brendan Sorsby set to enter Supplemental Draft,neutral,0.9373540282249451,0.0,2026-06-25 12:53:07
+661,NVDA,Amazon EC2 P6-B200 instances are now available in the Asia Pacific (Mumbai) Region,neutral,0.9014816880226135,0.0,2026-06-25 12:53:07
+663,NVDA,Nvidia reportedly tightens grip on AI inference market despite growing competition,positive,0.8869420289993286,0.8869420289993286,2026-06-25 12:53:07
+664,ANTHROPIC,Anthropic to meet with US officials over export curbs,neutral,0.7174912691116333,0.0,2026-06-25 12:53:07
+665,UNKNOWN,Show HN: Locket – Robust feature-level access control for LLMs,positive,0.8015050292015076,0.8015050292015076,2026-06-25 12:53:07
+666,NVDA,Intel gets a $170 billion AI reason to matter again,neutral,0.8397359848022461,0.0,2026-06-25 12:53:07
+667,UNKNOWN,Sarvam’s unicorn raise; Big exits in new IPOs,positive,0.7182775139808655,0.7182775139808655,2026-06-25 12:53:07
+668,NVDA,GPU infrastructure management startup Hydra Host raises $100M,positive,0.7635104656219482,0.7635104656219482,2026-06-25 12:53:07
+669,NVDA,"U. S Stock Market Prediction for Tuesday: S&P 500, Nasdaq, Dow Jones set for volatile trading? Top factors, stocks to watch out",neutral,0.8005808591842651,0.0,2026-06-25 12:53:07
+670,UNKNOWN,CNBC Daily Open: Relief rally rolls on as Mideast deal boosts sentiment,positive,0.9220365881919861,0.9220365881919861,2026-06-25 12:53:07
+662,NVDA,"Dow Jones Futures: Trump, Iran Deal Spark Stock Market Surge; Nvidia, Micron, Sandisk SpaceX Are Big Winners",positive,0.7023983001708984,0.7023983001708984,2026-06-25 12:53:07
+631,MSFT,fabric-dw 2026.6.0a1.dev174,neutral,0.9448353052139282,0.0,2026-06-25 12:53:06
+635,UNKNOWN,Entire New York Knicks championship team drops by 'The Tonight Show',negative,0.5366355180740356,-0.5366355180740356,2026-06-25 12:53:06
+634,ANTHROPIC,Cybersecurity Vets Protest 'Dangerous' US Government Ban On Anthropic's Most Powerful Models,negative,0.8737238049507141,-0.8737238049507141,2026-06-25 12:53:06
+633,DIS,Get $100+ in Free Disney Gift Cards with Mild Effort,neutral,0.5657529830932617,0.0,2026-06-25 12:53:06
+632,GOOGL,"Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google's Israel, ICE ties | TechCrunch",neutral,0.5791127681732178,0.0,2026-06-25 12:53:06
+627,MSFT,"Microsoft, Google, Amazon, and others commit to fund AI power needs at White House",neutral,0.712085485458374,0.0,2026-06-25 12:53:06
+630,MSFT,"AI Wars: Why Microsoft, Google and Amazon Are All Fighting Over Power",neutral,0.8323100209236145,0.0,2026-06-25 12:53:06
+629,UNKNOWN,"New Book Details Blueprint for Decentralized Manufacturing, Threatens Tech and Energy Giants",neutral,0.8136458396911621,0.0,2026-06-25 12:53:06
+628,MSFT,fabric-dw 2026.6.0a1.dev175,neutral,0.9456664323806763,0.0,2026-06-25 12:53:06
+637,UNKNOWN,Rob Liefeld’s Summer of Youngblood Is Heating Up With Landmark #100 Headed to Second Printing,neutral,0.5079261660575867,0.0,2026-06-25 12:53:06
+626,UNKNOWN,ACON OPTICS (TWSE: 6820) Strengthens AI High-Speed Interconnect Portfolio with CPO and 1.6T Connectivity Technologies at COMPUTEX 2026,positive,0.9217915534973145,0.9217915534973145,2026-06-25 12:53:06
+636,AAPL,dbs-vector 1.0.0,neutral,0.9341498017311096,0.0,2026-06-25 12:53:06
+639,UNKNOWN,Inside Alphonso Davies’ pregame speech for Canada,neutral,0.9109603762626648,0.0,2026-06-25 12:53:06
+638,UNKNOWN,Men’s World Cup Live (June 15th) — Nobody wanted to win: Spain 0-0 Cabo Verde; Belgium 1-1 Egypt; Uruguay 1-1 Saudi Arabia; Iran 2-2 New Zealand,neutral,0.815569281578064,0.0,2026-06-25 12:53:06
+645,AAPL,Apple TV releases massive Widow’s Bay-themed playlist on Apple Music,neutral,0.942097544670105,0.0,2026-06-25 12:53:06
+648,GOOGL,"TCL - 75"" Class S5-Series 4K UHD LED Smart Google TV (2024) $325 + Free Shipping (0 replies)",neutral,0.7955859899520874,0.0,2026-06-25 12:53:06
+640,UNKNOWN,The Washington Post on the EU’s DMA Folly,neutral,0.9163461923599243,0.0,2026-06-25 12:53:06
+646,UNKNOWN,Sennheiser - AMBEO Soundbar Plus 7.1.4 Channel Dolby Atmos Soundbar + Advanced Streaming Connectivity $327.99 (2 replies),neutral,0.7453063726425171,0.0,2026-06-25 12:53:06
+647,UNKNOWN,Sennheiser - AMBEO Soundbar Plus 7.1.4 Channel Dolby Atmos Soundbar + Advanced Streaming Connectivity $327.99 Open Box YMMV at Best Buy,neutral,0.8212734460830688,0.0,2026-06-25 12:53:06
+644,MSFT,Show HN: Aspectarian – a Jyotiṣa transit reader for macOS using Claude,neutral,0.890508770942688,0.0,2026-06-25 12:53:06
+643,ARM,Fieldays 2026: Indian agribusinesses look to benefit from New Zealand innovations,positive,0.9239113926887512,0.9239113926887512,2026-06-25 12:53:06
+642,AAPL,"Singapore's ""Stop at Two"" Reversal",neutral,0.8568578958511353,0.0,2026-06-25 12:53:06
+641,UNKNOWN,5 Devices Homeowners Should Never Cheap Out On,neutral,0.7808927297592163,0.0,2026-06-25 12:53:06
+618,BP,Black AI、進化する企業AI「WorkPeer」を発表 ― レガシーシステムも改修なしで連携。日本企業のオフィスワークを再現したベンチマークで総合1位。,neutral,0.7852851152420044,0.0,2026-06-25 12:53:05
+612,MSFT,Could SpaceX Be More Valuable Than Amazon and Microsoft? Here's What Price Its Stock Would Need to Hit for That to Happen,neutral,0.9354891777038574,0.0,2026-06-25 12:53:05
+613,MSFT,The Microsoft Surface Laptop 8 and Surface Pro 12 now come with Snapdragon X2 chips,neutral,0.9217625856399536,0.0,2026-06-25 12:53:05
+614,UNKNOWN,aspose-diagram-python 26.6,neutral,0.933923602104187,0.0,2026-06-25 12:53:05
+615,MSFT,Microsoft Teams introduces office attendance tracking via Wi-Fi,neutral,0.9197930097579956,0.0,2026-06-25 12:53:05
+616,MSFT,【新発表】経営データをAI Agentで統合可視化「Coo Kai Agent for Microsoft 365 Copilot」,neutral,0.8192323446273804,0.0,2026-06-25 12:53:05
+617,MSFT,"Microsoft sued by shareholders over expenses, cloud business, AI",negative,0.9402338266372681,-0.9402338266372681,2026-06-25 12:53:05
+611,ANTHROPIC,Inside the fight over Claude Mythos 5,neutral,0.8645023703575134,0.0,2026-06-25 12:53:05
+619,GOOGL,You can now fly around the world in Google Earth from the comfort of your browser,neutral,0.8994776606559753,0.0,2026-06-25 12:53:05
+620,MSFT,Microsoft CEO warns businesses against becoming dependent on a single AI model,neutral,0.7698484063148499,0.0,2026-06-25 12:53:05
+621,UNKNOWN,SpaceX IPO sends market cap past $2 trillion in historic first day of trading,positive,0.8042384386062622,0.8042384386062622,2026-06-25 12:53:05
+622,BP,SAMURAI、「IT・情シスDXPO札幌’26」に出展 ―業務自動化からAIエージェント開発まで、即戦力を育てるDX研修を提案,neutral,0.492569237947464,0.0,2026-06-25 12:53:05
+623,MSFT,Microsoft Edge Multiple Vulnerabilities,negative,0.6585929989814758,-0.6585929989814758,2026-06-25 12:53:05
+624,MSFT,Show HN: Bing Maps Leads Extractor,neutral,0.9336230754852295,0.0,2026-06-25 12:53:05
+625,MSFT,Microsoft turns to Amazon for help with GitHub's AI-driven capacity issues,positive,0.7261266112327576,0.7261266112327576,2026-06-25 12:53:05
+610,MSFT,Excel's Copilot finally tackles the nightmare of sorting through your open-ended survey data,neutral,0.8812777400016785,0.0,2026-06-25 12:53:05

@@ -1,6 +1,30 @@
+import sqlite3
+from config.settings import ANALYTICS_DB
+from analytics import market_insights
+from analytics import company_intelligence
+from pandas.core.computation import pytables
 from core.logger import logger
 
 from core.snapshot_manager import create_snapshot
+from core.warehouse_manager import initialize_warehouse
+from etl.extract import extract_all
+from etl.transform import transform_all
+from etl.load import load_all
+from analytics.company_metrics import build_company_metrics
+from analytics.company_intelligence import build_company_intelligence
+from analytics.explanations import build_explanations
+from etl.save_company_intelligence import (
+    save_company_intelligence
+)
+from analytics.build_insights import build_insights
+
+from analytics.market_insights import (
+    generate_market_insights
+)
+
+from etl.save_market_insights import (
+    save_market_insights
+)
 
 from core.source_manager import (
     validate_source,
@@ -23,22 +47,83 @@ def main():
     snapshot = create_snapshot()
     print(f"Snapshot: {snapshot}")
 
-    print("\n3. Available tables...")
+    print("\n3. Initializing warehouse...")
+    warehouse = initialize_warehouse()
+    print(f"Warehouse: {warehouse}")
+
+    print("\n4. Available tables...")
     print(list_tables())
 
-    print("\n4. Row counts...")
+    print("\n5. Row counts...")
     print(get_row_counts())
 
-    print("\n5. Schema...")
+    print("\n6. Schema...")
     print(get_schema())
 
-    print("\n6. Source profile...")
+    print("\n7. Source profile...")
     print(build_source_profile())
 
-    logger.info("-" * 60)
-    logger.info("Bootstrap completed successfully.")
-    logger.info("-" * 60)
+    print("\n8. Extracting data...")
+    tables = extract_all()
+
+    for name, dataframe in tables.items():
+        print(f"{name}: {len(dataframe)} rows")
+
+    print("\n9. Transforming data...")
+    transformed_tables = transform_all(tables)
+
+    for name, dataframe in transformed_tables.items():
+        print(f"{name}: {len(dataframe)} rows")
+
+    print("\n10. Loading data into warehouse...")
+    load_all(transformed_tables)
+    print("Analytics warehouse updated successfully.")
+
+    print("\n11. Building company metrics...")
+
+    company_metrics = build_company_metrics(
+        transformed_tables
+    )
+
+    with sqlite3.connect(ANALYTICS_DB) as conn:
+        company_metrics.to_sql(
+        "company_metrics",
+        conn,
+        if_exists="replace",
+        index=False
+    )
+
+    print(
+        f"Generated metrics for {len(company_metrics)} companies."
+    )
+
+    print("\n12. Building company intelligence...")
+    company_intelligence = build_company_intelligence(
+    company_metrics
+)
+
+    market_insights = generate_market_insights(
+        company_intelligence
+    )
+
+    save_market_insights(
+        market_insights
+    )
+
+    print("\n13. Market Insights...\n")
+
+    print("Executive Brief")
+    print("-" * 60)
+
+    print(
+        market_insights["executive_brief"].iloc[0]
+    )
+
+    print(
+        f"Generated intelligence for {len(company_intelligence)} companies."
+    )
 
 
+# pyrefly: ignore [parse-error]
 if __name__ == "__main__":
     main()
