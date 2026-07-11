@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/status-production--ready-brightgreen)
 ![Python](https://img.shields.io/badge/python-3.x-blue)
 ![SQLite](https://img.shields.io/badge/database-SQLite-003B57)
-![Power BI](https://img.shields.io/badge/dashboard-Power%20BI-F2C811)
+![Power BI](<https://img.shields.io/badge/dashboard-Power%20BI-F2C811>)
 ![License](https://img.shields.io/badge/license-TBD-lightgrey)
 
 InsightPulse is an AI-powered Financial Market Intelligence and Decision Analytics Platform that transforms financial news, sentiment signals, and market data into explainable company intelligence, market insights, CSV exports, and a Power BI dashboard.
@@ -79,15 +79,15 @@ flowchart TD
 
 ## Technology Stack
 
-| Layer | Technology |
-| --- | --- |
-| Data ingestion | NewsAPI source data |
-| Sentiment intelligence | FinBERT |
-| Data processing | Python, Pandas |
-| Analytics storage | SQLite |
-| Automation | Python subprocess runner |
-| Dashboarding | Power BI |
-| Export format | CSV |
+| Layer                  | Technology               |
+| ---------------------- | ------------------------ |
+| Data ingestion         | NewsAPI source data      |
+| Sentiment intelligence | FinBERT                  |
+| Data processing        | Python, Pandas           |
+| Analytics storage      | SQLite                   |
+| Automation             | Python subprocess runner |
+| Dashboarding           | Power BI                 |
+| Export format          | CSV                      |
 
 ## Project Structure
 
@@ -339,26 +339,54 @@ The manual sequence should only be needed when debugging individual pipeline sta
 
 ## Documentation
 
-| Document | Purpose |
-| --- | --- |
-| [PROJECT_VISION.md](docs/PROJECT_VISION.md) | Product vision, problem framing, guiding principles |
-| [SYSTEM_ARCHITECTURE.md](docs/SYSTEM_ARCHITECTURE.md) | System layers and platform architecture |
-| [WAREHOUSE_DESIGN.md](docs/WAREHOUSE_DESIGN.md) | Analytics warehouse philosophy and data layers |
-| [MVP_SCOPE.md](docs/MVP_SCOPE.md) | MVP goals, success criteria, non-goals, definition of done |
-| [DATA_MODEL.md](docs/DATA_MODEL.md) | Data model reference |
-| [PRODUCT_MODULES.md](docs/PRODUCT_MODULES.md) | Product module reference |
+| Document                                             | Purpose                                                    |
+| ---------------------------------------------------- | ---------------------------------------------------------- |
+| [PROJECT_VISION.md](docs/PROJECT_VISION.md)           | Product vision, problem framing, guiding principles        |
+| [SYSTEM_ARCHITECTURE.md](docs/SYSTEM_ARCHITECTURE.md) | System layers and platform architecture                    |
+| [WAREHOUSE_DESIGN.md](docs/WAREHOUSE_DESIGN.md)       | Analytics warehouse philosophy and data layers             |
+| [MVP_SCOPE.md](docs/MVP_SCOPE.md)                     | MVP goals, success criteria, non-goals, definition of done |
+| [DATA_MODEL.md](docs/DATA_MODEL.md)                   | Data model reference                                       |
+| [PRODUCT_MODULES.md](docs/PRODUCT_MODULES.md)         | Product module reference                                   |
 
-## Screenshots
+## 📸 Screenshots
 
-Capture the following files under `assets/screenshots/`:
+### Executive Dashboard
 
-| File | Caption |
-| --- | --- |
-| `assets/screenshots/executive_dashboard.png` | Executive dashboard showing market mood, priority companies, key recommendations, and summary KPIs. |
-| `assets/screenshots/company_intelligence.png` | Company intelligence view with opportunity, risk, confidence, momentum, and recommendation outputs. |
-| `assets/screenshots/market_overview.png` | Market overview page summarizing sentiment, attention, risk, and opportunity across tracked companies. |
-| `assets/screenshots/news_intelligence.png` | News intelligence view connecting headlines, sources, sentiment labels, and company-level signals. |
-| `assets/screenshots/automation_pipeline.png` | Terminal output from `python run_pipeline.py` showing successful bootstrap, CSV export, verification, and runtime. |
+![Executive Dashboard](assets/screenshots/executive_dashboard.png)
+
+*Executive dashboard showing market mood, priority companies, recommendations, and key KPIs.*
+
+---
+
+### Company Intelligence
+
+![Company Intelligence](assets/screenshots/company_intelligence.png)
+
+*Company intelligence view with opportunity, risk, confidence, momentum, and recommendations.*
+
+---
+
+### Market Overview
+
+![Market Overview](assets/screenshots/market_overview.png)
+
+*Market overview summarizing sentiment, attention, risk, and opportunity.*
+
+---
+
+### News Intelligence
+
+![News Intelligence](assets/screenshots/news_intelligence.png)
+
+*News intelligence connecting headlines, sentiment, and company signals.*
+
+---
+
+### Automation Pipeline
+
+![Automation Pipeline](assets/screenshots/automation_pipeline.png)
+
+*One-command pipeline execution (`python run_pipeline.py`).*
 
 ## Demo
 
